@@ -1,6 +1,5 @@
 const API_KEY = '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';
-// const API_ENDPOINT = 'https://api-inference.huggingface.co/models/Qwen/Qwen2.5-Coder-32B-Instruct';
-const API_ENDPOINT = 'https://api-inference.huggingface.co/models/codellama/CodeLlama-34b-Instruct-hf';
+const API_ENDPOINT = 'https://api-inference.huggingface.co/models/Qwen/Qwen2.5-Coder-32B-Instruct';
 
 document.addEventListener('DOMContentLoaded', () => {
     setupTheme();
